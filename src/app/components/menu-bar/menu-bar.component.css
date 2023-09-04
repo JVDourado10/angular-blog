@@ -1,0 +1,11 @@
+
+
+.container__menu-bar > ul{
+  display: flex;
+  list-style: none;
+  gap: 8px;
+}
+
+.container__menu-bar a {
+  text-decoration: none;
+}
