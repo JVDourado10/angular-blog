@@ -1,4 +1,16 @@
+.container__menu-bar img {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
 
+.container__menu-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1000px;
+  margin: 0 auto;
+}
 
 .container__menu-bar > ul{
   display: flex;

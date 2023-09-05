@@ -13,14 +13,14 @@ export const dataFake = [
   },
   {
     "id":'3',
-    "title": "Novos Episódios de One Piece estreiam essa semana",
+    "title": "Jogo Dos 7 erros: Quão bem você conhece One Piece",
     "description": "Confira os primeiros episodios episódios da série que já estão dando o que falar",
-    "photoCover": "https://sm.ign.com/ign_br/screenshot/default/blob_d6b9.jpg"
+    "photoCover": "https://i.pinimg.com/originals/00/9e/41/009e41cae0633d56006b5699035d66da.png"
   },
   {
     "id":'4',
-    "title": "Novos Episódios de One Piece estreiam essa semana",
+    "title": "Conheça curiosidades sobre os principais personagens de One Piece",
     "description": "Confira os primeiros episodios episódios da série que já estão dando o que falar",
-    "photoCover": "https://sm.ign.com/ign_br/screenshot/default/blob_d6b9.jpg"
+    "photoCover": "https://uploads.jovemnerd.com.br/wp-content/uploads/2023/07/one_piece_cartaz_personagens__50127q13-1210x544.jpg"
   }
 ]
